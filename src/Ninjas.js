@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-
+import './Ninjas.css';
 export default class Ninjas extends Component {
   render() {
     // refer the components properties
